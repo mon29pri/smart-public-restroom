@@ -1,4 +1,5 @@
 # smart-public-restroom
+# Overview
 This project aims to revolutionize public restroom management by leveraging IoT (Internet of Things) sensors to monitor occupancy and maintenance needs. The primary goal is to provide real-time data on restroom availability and cleanliness to the public through a user-friendly platform or mobile app. This README provides an overview of the project, its objectives, components, and usage instructions.
 
 Project Objectives
